@@ -1,2 +1,2 @@
 # programmingtwo.java.github.io
-Programming class repository.
+Programming Two class repository.
