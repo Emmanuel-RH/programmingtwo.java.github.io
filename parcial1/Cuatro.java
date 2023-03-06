@@ -1,5 +1,12 @@
-//Programa 4
 package parcial1;
+
+/**Programa 4
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo que dos números dados por el usuario, le reste el segundo 
+ * numero al primero, siempre y cuándo el primero sea mayor el segundo.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Cuatro {

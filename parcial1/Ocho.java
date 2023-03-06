@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 8
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo y programa en Java que de 3 números dados por el usuario no 
+ * lo muestre de mayor a menor (sin usar vectores ni ciclos).
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Ocho {

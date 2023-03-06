@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 7
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo y programa en Java que tres números dados por el usuario 
+ * indiqué cual es el mayor.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Siete {

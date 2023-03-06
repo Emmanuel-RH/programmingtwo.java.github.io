@@ -1,4 +1,15 @@
 package parcial1;
+
+/**Programa 14
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Una empresa americana tiene trabajadores con diversos estados migratorios en
+ * Estados Unidos y de acuerdo a su estado es el pago por hora. El Americano gana el
+ * 100% del precio de hora normal, el Residente gana el 80% del precio por hora y el
+ * ilegal gana solo el 60% del precio normal. Calcular el sueldo final de la semana de un
+ * trabajador de esta empresa.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner; 
 
 public class Catorce { 

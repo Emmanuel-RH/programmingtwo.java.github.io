@@ -1,4 +1,16 @@
 package parcial1;
+
+/**Programa 13
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Calcular el sueldo de un trabajador tomando en cuenta lo siguiente. Se considera
+ * lo mismo en horas normales y horas extras que el ejercicio anterior. Todos los
+ * impuestos se calculan sobre las horas normales trabajadas. Si el trabajador tiene
+ * infonavit y no ha obtenido la casa se le decrementa el 10% de su sueldo, si ya tiene la
+ *  casa el descuento es del 25%. El trabajador puede tener descuento por pensión
+ * alimenticia y el porcentaje puede variar.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Trece {

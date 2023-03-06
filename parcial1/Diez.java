@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 10
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo y programa en Java que pida el precio de un articulo y muestre
+ * el precio final incluyendo el 16% de IVA.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Diez {

@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 5
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo y programa Java que determine si un numero dado por el
+ * usuario es par o impar.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Cinco {

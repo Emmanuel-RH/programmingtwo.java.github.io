@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 3
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama y programa en Java que de dos números dados por el usuario muestre
+    la sumatoria.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Tres {

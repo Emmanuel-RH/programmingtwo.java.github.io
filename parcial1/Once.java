@@ -1,4 +1,12 @@
 package parcial1;
+
+/**Programa 11
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Pedir la cantidad de dinero que tiene una persona en dólares e informarle cuanto
+ * tiene en pesos mexicanos, peso colombiano, peso chileno y en Soles peruanos.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Once {

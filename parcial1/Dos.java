@@ -1,4 +1,11 @@
 package parcial1;
+
+/**Programa 2
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Pedir un numero al usuario y posteriormente que lo muestre
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner; 
 
 public class Dos {

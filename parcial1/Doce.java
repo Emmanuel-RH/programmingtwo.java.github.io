@@ -1,4 +1,14 @@
 package parcial1;
+
+/**Programa 12
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Calcular el sueldo de un trabajador tomando en cuenta lo siguiente. El trabajador
+ * tiene un precio por hora trabajada, el trabajador puede laborar hasta 40 horas a la
+ * semana como tiempo normal, de las 41 a 60 horas se consideran como tiempo extra,
+ * el tiempo extra se paga al 1.5 del precio de hora normal.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Doce {

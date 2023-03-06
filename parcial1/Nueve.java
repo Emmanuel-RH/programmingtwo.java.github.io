@@ -1,4 +1,13 @@
 package parcial1;
+
+/**Programa 9
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Diagrama de flujo y programa en Java que pida el sueldo de 3 trabajadores , al
+ * primero de aplicara un incremento del 12% y el tercero 15% mostrar el sueldo de cada
+ * uno.
+ * Fecha: 05/03/23
+*/ 
+
 import java.util.Scanner;
 
 public class Nueve {
