@@ -1,4 +1,4 @@
-package parcial1;
+package UnoaQuince;
 
 /**Programa 4
  * Author: José Emmanuel Reyes Hernández
