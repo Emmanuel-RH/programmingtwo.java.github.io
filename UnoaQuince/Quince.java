@@ -2,7 +2,7 @@ package UnoaQuince;
 
 /**Programa 15
  * Author: José Emmanuel Reyes Hernández
- * Instrucción: na empresa mexicana de construcción es trasnacional, por ese motivo tiene
+ * Instrucción: una empresa mexicana de construcción es trasnacional, por ese motivo tiene
  * trabajadores de México, Colombia, Chile y Perú. En cada país existe un precio por
  * hora trabajada, existe diferente porcentaje de retención del ISR y también diferente
  * porcentaje de retención del sistema de asignación de casas (infonavit) tanto para

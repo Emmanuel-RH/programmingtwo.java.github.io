@@ -1,9 +1,11 @@
 package DieciseisaTreinta;
 
-/*Este código utiliza la clase LocalDate de la librería java.time para obtener la fecha actual 
- *y la fecha de nacimiento de la persona, y luego utiliza la clase Period para calcular la diferencia 
- *entre ambas fechas en años, meses y días. El resultado se imprime en la consola.
-*/
+/**Programa 16
+ * Author: José Emmanuel Reyes Hernández
+ * Instrucción: Programa en Java que determine cuantos años, meses y días tiene una persona a
+ * partir de su fecha de nacimiento.
+ * Fecha: 15/Marzo/2023
+*/ 
 
 import java.time.LocalDate;
 import java.time.Period;
