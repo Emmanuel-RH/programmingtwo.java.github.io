@@ -1,7 +1,12 @@
 package DieciseisaTreinta;
 
-// Author: José Emmanuel Reyes Hernández
-// Date: 15/Marzo/2023
+/** Porgrama 18
+ * Author: José Emmanuel Reyes Hernández
+ * Intrucción: Programa en Java que determine cuantos años, meses y días tiene una persona a
+ * partir de su fecha de nacimiento y si esta casado entonces determinar cuantos años,
+ * meses y días ha estado casado y cuantos años, meses y días ha estado soltero.
+ * Date: 15/Marzo/2023
+*/ 
 
 import java.time.LocalDate;
 import java.time.Period;
