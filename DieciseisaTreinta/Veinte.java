@@ -1,5 +1,13 @@
 package DieciseisaTreinta;
 
+/** Porgrama 20 
+ * Author: José Emmanuel Reyes Hernández
+ * Intrucción: Diagrama de flujo y programa en Java que determine el pago a un jugador de futbol profesional quien gana de acuerdo a lo siguiente:
+ * Tiene un sueldo base Si es portero, tiene una prima de un 1% de su sueldo base por cada penalti que detenga, si el penalti fue en liguilla la prima 
+ * es de 2%. Si es delantero, tiene una prima de 2% por gol, si gol fue en liguilla la prima es de 3%.
+ * Date: 15/Marzo/2023
+*/ 
+
 import java.util.Scanner;
 
 public class Veinte {
