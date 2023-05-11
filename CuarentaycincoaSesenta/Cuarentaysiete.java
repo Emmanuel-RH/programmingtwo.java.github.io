@@ -31,5 +31,4 @@ public class Cuarentaysiete {
             sc.close();
         }
     }
-
 }
